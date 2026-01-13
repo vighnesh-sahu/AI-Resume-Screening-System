@@ -1,0 +1,21 @@
+We are looking for a Python / AI Intern who has a strong understanding of
+Python programming, data structures, and basic machine learning concepts.
+
+Required Skills:
+- Python
+- Data Structures and Algorithms
+- Machine Learning fundamentals
+- NLP basics
+- Flask or Django
+- Git and GitHub
+
+Responsibilities:
+- Develop and maintain Python-based applications
+- Work on machine learning models for text analysis
+- Assist in building AI-driven features
+- Collaborate with the development team
+
+Preferred Qualifications:
+- Knowledge of scikit-learn
+- Experience with REST APIs
+- Problem-solving skills
